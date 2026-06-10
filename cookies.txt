@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.yandex.ru	TRUE	/	FALSE	1999999999	_yasc	3yGxReIOnaUzLg6I3k4VQj8x1gZexOYMHdWoxalpuYfXTWcP6w/HcySMBuEVtD2pImozsGw=
+.illumika.com	TRUE	/	FALSE	1999999999	__ddg8_	xNdIxV6UWi95fudM
+.illumika.com	TRUE	/	FALSE	1999999999	__ddg10_	1781023169
+.illumika.com	TRUE	/	FALSE	1999999999	__ddg9_	66.90.91.157
+.illumika.com	TRUE	/	FALSE	1999999999	__ddg1_	bbhudtFgNTRUE9KcTRo2
+.yandex.ru	TRUE	/	FALSE	1999999999	bh	YMWDodEGag/s69e6D7udubEG1e+fzg4=
+

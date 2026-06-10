@@ -1,0 +1,34 @@
+.t-title,
+.t-title_lg,
+.t-title_xs,
+.t-section__title,
+.js-anim-title {
+  backface-visibility: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+.t-title.visible,
+.t-title_lg.visible,
+.t-title_xs.visible,
+.t-section__title.visible,
+.js-anim-title.visible {
+  animation: slideInBlurred 0.9s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  pointer-events: none;
+}
+
+.t-title.visible.anim-done,
+.t-title_lg.visible.anim-done,
+.t-title_xs.visible.anim-done,
+.t-section__title.visible.anim-done,
+.js-anim-title.visible.anim-done {
+  pointer-events: auto;
+}
+
+.t-title:hover,
+.t-title_lg:hover,
+.t-title_xs:hover,
+.t-section__title:hover,
+.js-anim-title:hover {
+  transform: none !important;
+  filter: none !important;
+}

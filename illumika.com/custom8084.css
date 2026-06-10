@@ -1,0 +1,297 @@
+    .uc-maindesk {
+    margin: 0px 30px 0px 40px;
+    }
+    .t995__wrapper {
+        padding: 30px 50px 20px 40px;
+    }
+
+    .uc-block {
+        margin:20px 80px 20px;
+        border-radius: 10px;
+        background-color: rgba(0,0,0,0.5);
+        backdrop-filter: blur(10px);
+    }
+
+/* ===== ДЕСКТОП: контейнеры, фон, отступы ===== */
+.uc-leftpic {
+  margin: 0px 80px;
+  padding: 10px;
+  border-radius: 20px;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
+}
+
+.uc-rightpic { /* ИНВЕРСНЫЙ БЛОК ПО СЕРЕДИНЕ */
+  margin: 20px 80px;
+  padding: 10px;
+  border-radius: 20px;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
+}
+
+.uc-leftpic2 {
+  margin: 0px 80px;
+  padding: 10px 10px 0px;
+  border-radius: 20px 20px 0px 0px;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
+}
+
+.uc-rightpic2 { /* ИНВЕРСНЫЙ БЛОК ПО СЕРЕДИНЕ */
+  margin: 20px 80px 0px;
+  padding: 10px 10px 0px;
+  border-radius: 20px 20px 0px 0px;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
+}
+
+/* ===== ДЕСКТОП: текстовый блок (таблица) — ВСЕ УГЛЫ 10px ===== */
+.t492__blocktable {
+  border-radius: 10px !important;
+}
+
+    .uc-keys {
+    margin: 0px 80px 20px;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+    border-radius: 0px 0px 20px 20px;
+    }
+        .uc-keys2 {
+    margin: 0px 80px 20px;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+    border-radius:20px;
+    }
+    
+    .t939 {
+    padding: 5px 0px 5px;
+}
+
+    .uc-video {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 0px 80px 20px;
+}
+
+
+.uc-videoreel {
+    margin: 0px 80px 0px ;
+    padding: 10px 10px 10px 10px;
+    background-color: rgba(0,0,0,0.5);
+    backdrop-filter: blur(10px);
+}
+
+    .uc-footer {
+    z-index: 1000;
+    margin: 0px 80px 20px 80px ;
+    padding: 10px ;
+    border-radius: 20px ;
+    background: rgba(0, 0, 0, 0.5) ;
+    backdrop-filter: blur(10px) ;
+    }
+
+    .t-popup__container {
+    background: rgba(0,0,0,0);
+    border-radius: 20px;
+}
+
+.t390__wrapper {
+    backdrop-filter: blur(10px);
+    background-color: rgba(0,0,0,0.2);
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+}
+.t390__img t-img {
+    padding: 0px 0px 10px !important;
+    border-radius: 10px;
+}
+.t390__img.t-img {
+    border-top-style: solid !important;
+    border-top-width: 0px !important;
+    padding-top: 0px !important;
+    border-top-left-radius: 20px !important;
+    border-top-right-radius: 20px !important;
+}
+
+
+
+
+    .t1014__wrapper {
+    background-color: rgba(0,0,0,0.2);
+    backdrop-filter: blur(10px);
+    border-radius: 0px 0px 20px 20px;
+}
+.t1014 .t1014__wrapper {
+    background: rgba(0,0,0,0.2);
+}
+.t1014 .t1014__img {
+    border-radius: 20px 20px 0px 0px;
+}
+.t-popup__container {
+    background-color: rgba(0,0,0,0);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+}
+
+
+/* Глобально меняем маркеры на стрелки */
+ul {
+  list-style: none !important;
+  padding-left: 0;
+}
+
+ul li {
+  position: relative;
+  padding-left: 25px;
+  line-height: 1.5;
+}
+
+ul li:before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 18px;
+  font-weight: bold;
+  color: #555;
+}
+
+
+    .t-zoomer__bg {
+    background: rgba(0,0,0,0);
+}
+
+.t-zoomer__container {
+    background-color: rgba(0,0,0,0) !important;
+}
+
+.t-carousel__zoomer__img.t-img.loaded {
+    border-radius: 20px;
+}
+.t-slds__thumbsbullet-wrapper.t-align_left {
+    margin: 5px;
+}
+.t-slds__thumbsbullet.t-slds__bullet {
+    margin: 5px;
+} 
+.t756__wrapper.t-align_left {
+    background-color: black;
+}
+.t-popup__close-wrapper.t-popup__block-close-button {
+    background-color: rgba(255,255,255,0.3);
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+}
+.t-slds__thumbsbullet.t-slds__bullet_active .t-slds__thumbsbullet-border {
+    border-color: #c8ff9b !important;
+}
+
+
+
+
+    @media screen and (max-width: 480px) {
+        .uc-mainmob {
+    margin: 100px 10px 20px;
+}
+}
+
+    @media screen and (max-width: 980px) {
+        .uc-maindesk {
+    margin: 100px 10px 15px;
+}
+}
+
+    @media screen and (max-width: 480px) {
+        .uc-keys {
+            margin: 0px 10px 15px;
+        }
+    }
+    @media screen and (max-width: 480px) {
+        .uc-keys2 {
+            margin: 0px 10px 15px;
+        }
+    }
+
+/* 1) Мобильные отступы */
+@media screen and (max-width: 480px) {
+  .uc-leftpic {
+    margin: 0px 10px 20px;
+    padding: 10px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .uc-leftpic2 {
+    margin: 0px 10px 0px;
+    padding: 10px 10px 0px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .uc-rightpic {
+    margin: 0px 10px 20px;
+    padding: 10px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .uc-rightpic2 {
+    margin: 0px 10px 0px;
+    padding: 10px 10px 0px;
+  }
+}
+
+/* КАРТИНКА: только верхние углы */
+@media screen and (max-width: 480px) {
+  .t492__blockimgmobile,
+  .t492__imgmobile {
+    border-radius: 10px 10px 0 0 !important;
+    overflow: hidden !important;
+  }
+  .t492__blocktable {
+    border-radius: 0px 0px 10px 10px !important;
+  }
+}
+
+@media screen and (max-width: 480px) {
+.t-radio__item.t-contact-method__type.t-text.t-text_xs {
+    font-size: 5px;
+    line-height: 1.55;
+}
+}
+@media screen and (max-width: 480px) {
+.t-contact-method__title {
+    font-size: 14px;
+}
+}
+@media screen and (max-width:640px) {
+    .t-quiz .t-quiz__quiz-wrapper {
+        min-height: 50vh;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .uc-footer {
+    z-index: 1000;
+    margin: 0px 10px 20px 10px ;
+    padding: 10px ;
+    }
+    .t389__content {
+    display: flex;
+    flex-direction: column-reverse;
+    }
+}   
+
+@media screen and (max-width: 480px) {
+    .uc-maindesk {
+        margin: 0px;
+    }
+    .t995__wrapper {
+        padding: 0px;
+    }
+    
+}
+
+
+
+
+

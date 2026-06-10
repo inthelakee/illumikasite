@@ -1,0 +1,8 @@
+https://illumika.com/mainpage https://illumika.com/projects https://illumika.com/spa https://illumika.com/branding https://illumika.com/prom https://illumika.com/archpro https://illumika.com/privacy-policy -O /Users/illumikapr/Downloads/illumika -r10 -* +https://illumika.com/mainpage* +https://illumika.com/projects* +https://illumika.com/spa* +https://illumika.com/branding* +https://illumika.com/prom* +https://illumika.com/archpro* +https://illumika.com/privacy-policy* +https://cdn.illumika.com/* +*.css +*.js +*.mjs +*.jpg +*.jpeg +*.png +*.webp +*.svg +*.gif +*.ico +*.woff +*.woff2 +*.ttf +*.eot https://illumika.com/main -iC1
+File generated automatically on Tue, 09 Jun 2026 19:38:26, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

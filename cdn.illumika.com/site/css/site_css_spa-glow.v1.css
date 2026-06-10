@@ -1,0 +1,8 @@
+@keyframes spaGlow {
+  0%, 100% {
+    box-shadow: 0 0 0 rgba(255, 0, 150, 0);
+  }
+  50% {
+    box-shadow: 0 0 25px rgba(255, 0, 150, 1);
+  }
+}

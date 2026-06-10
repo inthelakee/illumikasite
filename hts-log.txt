@@ -1,0 +1,20 @@
+HTTrack3.49-2 launched on Tue, 09 Jun 2026 19:38:26 at https://illumika.com/mainpage https://illumika.com/projects https://illumika.com/spa https://illumika.com/branding https://illumika.com/prom https://illumika.com/archpro https://illumika.com/privacy-policy -* +https://illumika.com/mainpage* +https://illumika.com/projects* +https://illumika.com/spa* +https://illumika.com/branding* +https://illumika.com/prom* +https://illumika.com/archpro* +https://illumika.com/privacy-policy* +https://cdn.illumika.com/* +*.css +*.js +*.mjs +*.jpg +*.jpeg +*.png +*.webp +*.svg +*.gif +*.ico +*.woff +*.woff2 +*.ttf +*.eot https://illumika.com/main
+(httrack https://illumika.com/mainpage https://illumika.com/projects https://illumika.com/spa https://illumika.com/branding https://illumika.com/prom https://illumika.com/archpro https://illumika.com/privacy-policy -O /Users/illumikapr/Downloads/illumika -r10 -* +https://illumika.com/mainpage* +https://illumika.com/projects* +https://illumika.com/spa* +https://illumika.com/branding* +https://illumika.com/prom* +https://illumika.com/archpro* +https://illumika.com/privacy-policy* +https://cdn.illumika.com/* +*.css +*.js +*.mjs +*.jpg +*.jpeg +*.png +*.webp +*.svg +*.gif +*.ico +*.woff +*.woff2 +*.ttf +*.eot https://illumika.com/main -iC1 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:38:34	Error: 	"Not Found" (404) at link https://illumika.com/THREE.LensFlare has been moved to /examples/jsm/objects/Lensflare.js (from https://cdn.illumika.com/site/libs/site_libs_three.min.js)
+19:38:34	Error: 	"Not Found" (404) at link https://illumika.com/THREE.SceneUtils has been moved to /examples/jsm/utils/SceneUtils.js (from https://cdn.illumika.com/site/libs/site_libs_three.min.js)
+19:38:34	Error: 	"Not Found" (404) at link https://illumika.com/tilda-scripts-3.0.min.js (from https://cdn.illumika.com/site/libs/site_libs_mods.min.js)
+19:38:34	Error: 	"Not Found" (404) at link https://illumika.com/tilda-members-scripts.min.js (from https://cdn.illumika.com/site/libs/site_libs_mods.min.js)
+19:38:34	Error: 	"Not Found" (404) at link https://illumika.com/projects/OPR/ (from https://illumika.com/projects/)
+19:38:34	Error: 	"Not Found" (404) at link https://illumika.com/projects/projects/open (from https://illumika.com/projects/)
+19:38:34	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://illumika.com/projects/open)
+19:38:34	Error: 	"Not Found" (404) at link https://illumika.com/projects/rainz/OPR/ (from https://illumika.com/projects/rainz/office)
+19:38:34	Error: 	"Not Found" (404) at link https://illumika.com/projects/ledvizor/OPR/ (from https://illumika.com/projects/ledvizor/stand)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 seconds : 998 links scanned, 987 files written (334130171 bytes overall), 7 files updated [174079 bytes received at 21759 bytes/sec], 502196 bytes transferred using HTTP compression in 5 files, ratio 31%, 1.7 requests per connection
+(9 errors, 0 warnings, 0 messages)
